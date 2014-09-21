@@ -38,4 +38,5 @@ fetch every 5 minutes and post every 15 minutes.
 
 ### contact
 
-both the twitter and irc implementations of denice are maintained by lq <root at lo dot calho dot st>.
+both the twitter and irc implementations of denice are maintained by lq.  
+email: root at lo dot calho dot st
